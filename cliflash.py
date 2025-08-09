@@ -1,4 +1,4 @@
-#For Linux only
+#For Linux and macos(needs bash) only
 import os 
 import tkinter as tk
 import time
